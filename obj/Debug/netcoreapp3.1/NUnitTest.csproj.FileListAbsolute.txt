@@ -94,3 +94,4 @@ C:\Users\vgess\Documents\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.csproj.Copy
 C:\Users\vgess\Documents\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.dll
 C:\Users\vgess\Documents\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.pdb
 C:\Users\vgess\Documents\NUnitTest\obj\Debug\netcoreapp3.1\NUnitTest.genruntimeconfig.cache
+c:\Users\vgess\Documents\NUnitTest\bin\Debug\netcoreapp3.1\WebDriver.dll
